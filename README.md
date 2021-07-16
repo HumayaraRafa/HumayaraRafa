@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... 🧐
 - 💬 Ask me about ... Manual & Automation Testing  🙋
 - 📫 How to reach me: ... https://www.linkedin.com/in/humayara-chowdhury/
-- 😄 Pronouns: ... she/his 
+- 😄 Pronouns: ... she/her 
 - ⚡ Fun fact: ... Hide&Seek 😜
 -->
